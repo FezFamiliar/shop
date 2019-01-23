@@ -44,4 +44,4 @@ $result = mysqli_query($conn,"SELECT * FROM `products` WHERE name LIKE '$term%' 
       <input type="hidden" name="id" value="<?= $row['id']; ?>">
   </form>
 </div>
-<? endwhile;else: echo 'no match!';endif;endif;include 'footer.php'; ?>
+<? endwhile;else: echo 'no match!';endif;endif; ?>
