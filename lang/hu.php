@@ -2,5 +2,5 @@
 
 $lang = ['home' => 'Kezdolap',
          'signup' => 'Iratkozz fel',
-         'login' => 'Lepj be'
-];
+         'login' => 'Lepj be',
+          'filter' => 'Szurj!'];
