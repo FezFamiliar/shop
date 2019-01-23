@@ -3,4 +3,5 @@
 
 $lang = ['home' => 'Home',
          'signup' => 'Sign Up',
-         'login' => 'Login'];
+         'login' => 'Login',
+          'filter' => 'Filter'];
