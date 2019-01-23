@@ -1,0 +1,5 @@
+RewriteEngine On
+
+Options -Indexes
+ErrorDocument 404 /shop/errors/404.php
+php_value short_open_tag 1
