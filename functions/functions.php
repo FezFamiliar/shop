@@ -8,7 +8,7 @@ function print_array($array){
     print_r($array);
     echo '</pre>';
 
-  }else echo 'its not ana array!';
+  }else echo 'it\'s not an array!';
 
 
 }
