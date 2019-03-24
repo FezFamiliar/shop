@@ -10,10 +10,6 @@
       <a href="index.php?logout=true" class="logout">Logout</a>
     <? endif; ?>
 
-        <a href="index.php?lang=en"><img src="images/united_kingdom.png" width="25" height="25" class="lang"></a>
-        <a href="index.php?lang=ro"><img src="images/romania.png" width="25" height="25"></a>
-        <a href="index.php?lang=hu"><img src="images/hungary.png" width="25" height="25"></a>
-
     <div class="cart">
       <div class="notification">
         <span class="notification"><? echo isset($_SESSION['cart']['total']) ? $_SESSION['cart']['total'] : 0; ?></span>
