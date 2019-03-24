@@ -1,4 +1,5 @@
-<?php
+<?
 session_start();
 
-++$_SESSION['cart']['total']
+++$_SESSION['cart']['total'];
+?>

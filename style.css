@@ -41,7 +41,7 @@ footer p{text-align:center;color:white;padding-top:10px;font-size:24.5px;overflo
 .logged{text-decoration:underline;}
 .modal-body table,th,td{border:1px solid black;padding:10px;border-collapse:collapse;}
 .modal-body table{margin:auto;}
-.logout{font-weight:bold;position:absolute;top:44px;color:black;text-decoration: none;margin-top:15px;}
+.logout{font-weight:bold;position:absolute;top:29px;color:black;text-decoration: none;margin-top:15px;}
 .logout:hover{text-decoration:underline;}
 .validation-toggle{color:red;font-weight:bold;font-size:10px;padding:0 0 0 20px;}
 .clear{cursor: pointer;transition:color 0.3s ease-out;}
