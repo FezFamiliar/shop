@@ -89,6 +89,6 @@ include 'menu.php';
             <input type="submit" value="<?= $lang['filter']; ?>">
           </form>
         </div>
-        <div id="slider-range"></div>
-<? include 'footer.php'; ?>
+  <div id="slider-range"></div>
+
  <? endif; ?>
