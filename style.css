@@ -311,3 +311,7 @@ margin-bottom:20px;
   .slide-container{width:100%;text-align:center;margin-left:0px;}
   #slider-range{width:50%;margin:auto;}
 }
+
+@media (max-width:420px){
+  .container{margin-left:30px;}
+}
